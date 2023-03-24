@@ -24,7 +24,7 @@ npm install gatsby-use-fusejs
 ```JSX
 import React, { useState } from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
-import { useFuseSearch } from '@hooks/useFuseSearch';
+import { useFuseSearch } from 'gatsby-use-fusejs';
 import * as S from './styles';
 
 const SearchInput = () => {
@@ -72,7 +72,7 @@ export default SearchInput;
 ```JSX
 import React, { useState } from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
-import { useDebounceFuseSearch } from '@hooks/useFuseSearch';
+import { useDebounceFuseSearch } from 'gatsby-use-fusejs';
 import * as S from './styles';
 
 const SearchInput = () => {
