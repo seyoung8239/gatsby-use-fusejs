@@ -1,0 +1,21 @@
+{
+    "name": "gatsby-use-fusejs",
+    "version": "0.0.1",
+    "description": "useFuseSearch hook for gatsby",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc"
+    },
+    "keywords": [],
+    "author": "Seyoung Park <seyoung8239@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "fuse.js": "^6.6.2",
+        "react": "^18.2.0"
+    },
+    "devDependencies": {
+        "@types/react": "^18.0.28",
+        "typescript": "^5.0.2"
+    }
+}
