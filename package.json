@@ -1,7 +1,7 @@
 {
     "name": "gatsby-use-fusejs",
-    "version": "0.0.1",
-    "description": "useFuseSearch hook for gatsby",
+    "version": "0.0.3",
+    "description": "package for fusejs search in gatsbyjs project",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "scripts": {
