@@ -1,7 +1,5 @@
 # gatsby-use-fusejs
 
----
-
 `gatsby-use-fusejs`✨ is a React hook package to search with [Fuse.js](https://fusejs.io/) index in [Gatsby.js](https://www.gatsbyjs.com/) project. This package also provide built-in **debounce** feature.
 
 > ⛔️ Warning
@@ -14,8 +12,6 @@ npm install gatsby-use-fusejs
 ```
 
 ## 📕 Usage
-
----
 
 ### `useFuseSearch`
 
