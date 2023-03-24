@@ -1,6 +1,6 @@
 {
     "name": "gatsby-use-fusejs",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "package for fusejs search in gatsbyjs project",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -24,6 +24,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/axios/axios.git"
+        "url": "https://github.com/seyoung8239/gatsby-use-fusejs"
     }
 }
