@@ -8,6 +8,10 @@
 ## 🚀 Install
 
 ```shell
+yarn add gatsby-use-fusejs
+```
+
+```shell
 npm install gatsby-use-fusejs
 ```
 
@@ -83,5 +87,10 @@ export default SearchInput;
 
 #### arguments
 
-- all arguments from `useFuseSearch` API
-- delay?: delay time(`ms`) for debouncing
+-   all arguments from `useFuseSearch` API
+-   delay?: delay time(`ms`) for debouncing
+
+## ⛓️ Dependencies
+
+-   fuse.js: ^6.6.2
+-   react: ^18.2.0
