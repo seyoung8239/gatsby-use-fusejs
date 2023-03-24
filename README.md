@@ -90,9 +90,9 @@ export default SearchInput;
 #### arguments
 
 -   all arguments from `useFuseSearch` API
--   delay?: delay time(`ms`) for debouncing
+-   delay?: delay time(ms) for debouncing
 
 ## ⛓️ Dependencies
 
--   fuse.js: ^6.6.2
--   react: ^18.2.0
+-   `fuse.js`: ^6.6.2
+-   `react`: ^18.2.0
